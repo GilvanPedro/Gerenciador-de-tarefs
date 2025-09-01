@@ -33,12 +33,6 @@ aplicativo.
     java GerenciadorDeTarefas
     ```
 
-## 📊 Diagrama BPMN
-
-Fluxo modelado no **Draw.io** usando notação BPMN:
-
-![Diagrama BPMN](diagramas/tarefas.png)
-
 ## 📖 Tecnologias utilizadas
 
 -   **Java** (console)
